@@ -1,0 +1,44 @@
+[Processor]
+Intel Pentium IV Processor=PR2
+Intel Celeron Processor=PR32
+
+[SD RAM]
+Samsung 128 SD RAM=SM4
+
+[DD RAM]
+Samsung 128 DD RAM=DM6
+
+[Monitor]
+LG 15 " Color monitor=MR8
+LG Black Color Monitor=MR28
+
+[Hard Disk]
+Samsung 40 GB HDD=HK10
+
+[810e Mother Board]
+Mercury Intel 810e Chipset Mother Board=8D12
+
+[845 Mother board]
+Intel orginal 845 Mother Board=8D14
+Mercury 845 Chipset Mother Board=8D15
+
+[ATX Cabinet]
+ATX Cabinet with 2 Fan=AT17
+ATX Cabinet=AT18
+
+[Floppy Drive]
+Sony Floppy Drive=FE20
+
+[CD Drive]
+LG CD Drive=CE22
+
+[Mouse]
+Mercury Mouse=ME24
+i Digital Mouse=ME27
+
+[KeyBoard]
+Mercury KeyBoard=KD26
+
+[UPS]
+V - Guard UPS Safe Shutdown System=US30
+V - Guard UPS=US31
