@@ -1,0 +1,78 @@
+[Product Id]
+Product Id :=32
+
+[Intel Pentium IV Processor]
+Group :=Processor
+Group Id :=PR2
+
+[Samsung 128 SD RAM]
+Group :=SD RAM
+Group Id :=SM4
+
+[Samsung 128 DD RAM]
+Group :=DD RAM
+Group Id :=DM6
+
+[LG 15 " Color monitor]
+Group :=Monitor
+Group Id :=MR8
+
+[Samsung 40 GB HDD]
+Group :=Hard Disk
+Group Id :=HK10
+
+[Mercury Intel 810e Chipset Mother Board]
+Group :=810e Mother Board
+Group Id :=8D12
+
+[Intel orginal 845 Mother Board]
+Group :=845 Mother board
+Group Id :=8D14
+
+[Mercury 845 Chipset Mother Board]
+Group :=845 Mother board
+Group Id :=8D15
+
+[ATX Cabinet with 2 Fan]
+Group :=ATX Cabinet
+Group Id :=AT17
+
+[ATX Cabinet]
+Group :=ATX Cabinet
+Group Id :=AT18
+
+[Sony Floppy Drive]
+Group :=Floppy Drive
+Group Id :=FE20
+
+[LG CD Drive]
+Group :=CD Drive
+Group Id :=CE22
+
+[Mercury Mouse]
+Group :=Mouse
+Group Id :=ME24
+
+[Mercury KeyBoard]
+Group :=KeyBoard
+Group Id :=KD26
+
+[i Digital Mouse]
+Group :=Mouse
+Group Id :=ME27
+
+[LG Black Color Monitor]
+Group :=Monitor
+Group Id :=MR28
+
+[V - Guard UPS Safe Shutdown System]
+Group :=UPS
+Group Id :=US30
+
+[V - Guard UPS]
+Group :=UPS
+Group Id :=US31
+
+[Intel Celeron Processor]
+Group :=Processor
+Group Id :=PR32
